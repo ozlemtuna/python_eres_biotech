@@ -1,0 +1,3 @@
+# Ignore all CSV files in specific folders
+create_figure/**/*.csv
+python_bioinfo/**/*.csv

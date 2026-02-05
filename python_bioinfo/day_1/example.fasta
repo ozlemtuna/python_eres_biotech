@@ -1,0 +1,15 @@
+>seq1
+ATGCGTA
+acgt
+NNNN
+>seq2
+GGCCTTAAGG
+CC TT AA
+>seq1   
+aatgct
+
+>seq3
+nnnnnn
+ttttaaagggccc
+
+#python fasta_parser.py example.fasta output.csv
